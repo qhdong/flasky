@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+.idea
+pip-log.txt
+pip-delete-this-directory.txt
